@@ -16,7 +16,7 @@
     "move": {
       "enable": true,
       "speed": 2,
-      "direction": "bottom",
+      "direction": "random",
       "straight": false
     }
   },
