@@ -1,0 +1,17 @@
+#particlesExp {
+  background-image: url("JL.jpg");
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  left: 0;
+}
+
+h1 {
+  color : white;
+  font-family: times;
+  font-style: italic;
+  position: absolute;
+  top: 150px;
+  left : 200px;
+}
